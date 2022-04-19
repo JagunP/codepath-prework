@@ -6,7 +6,7 @@ Submitted by: **Precious-Favour Jagun**
 
 Time spent: **2.5 Hours**
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (insert your link here, should start with https://ed7a67e5-814b-4c29-bb16-263c49eba393@api.glitch.com/git/lumpy-roan-cornucopia)
 
 ## Required Functionality
 
